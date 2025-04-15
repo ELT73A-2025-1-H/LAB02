@@ -1,0 +1,3 @@
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB02/empty/build/debug/CMakeFiles/empty.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB02/empty/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB02/empty/build/debug/CMakeFiles/rebuild_cache.dir
